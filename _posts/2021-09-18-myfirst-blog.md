@@ -1,5 +1,6 @@
 ---
-layout: 博客
+layout: post
+title: 博客
 ---
 # 我的成果
 
