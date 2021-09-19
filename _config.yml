@@ -13,8 +13,8 @@ header:
   pages:
     - name: 首页
       slug: /
-    - name: 工作
-    - name: 博客
+    - name: work
+    - name: blog
 
 footer:
   show_powered_by: true
