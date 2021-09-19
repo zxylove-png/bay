@@ -5,10 +5,10 @@ profile_picture:
   alt: website picture
 ---
 
-<p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
-</p>
+### <u>EDUCATION BACKGROUND&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</u> 
+University of Science and Technology Beijing(USTB)                                              Sep.2018-Jun.2022
+● Degree: Bachelor of Engineering
+● Major: **Materials Science and Engineering** (taught in **English**)
 
-<p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
-</p>
+●GPA:**94.4/100**               **3.94/4.0**                                            Rank: **1/392**
+
