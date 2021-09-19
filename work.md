@@ -1,7 +1,7 @@
 ---
-layout: work
+layout: 工作
 title: 工作
-slug: /work
+slug: /工作
 items:
   - title: My Interest 1
     image:
